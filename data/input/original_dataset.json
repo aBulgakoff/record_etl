@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "code": "biz_code_1",
+    "description": "plvriqszkk",
+    "status": "CLOSED",
+    "date_opened": null,
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 2,
+    "code": "biz_code_2",
+    "description": "iywydfkocv",
+    "status": "BOTH",
+    "date_opened": "2023-12-18",
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 3,
+    "code": "biz_code_3",
+    "description": null,
+    "status": "BOTH",
+    "date_opened": "2023-12-18",
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 4,
+    "code": "biz_code_4",
+    "description": "",
+    "status": "CLOSED",
+    "date_opened": null,
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 5,
+    "code": "biz_code_5",
+    "description": "tehnyanxbm",
+    "status": "CLOSED",
+    "date_opened": null,
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 6,
+    "code": "biz_code_6",
+    "description": "odvqxmbotw",
+    "status": "BOTH",
+    "date_opened": "2023-12-18",
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 7,
+    "code": "biz_code_7",
+    "description": "tycmwijycg",
+    "status": "OPEN",
+    "date_opened": "2023-12-18",
+    "date_closed": null
+  },
+  {
+    "id": 8,
+    "code": "biz_code_8",
+    "description": "emlnpxayvr",
+    "status": "CLOSED",
+    "date_opened": null,
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 9,
+    "code": "biz_code_9",
+    "description": null,
+    "status": "BOTH",
+    "date_opened": "2023-12-18",
+    "date_closed": "2023-12-18"
+  },
+  {
+    "id": 10,
+    "code": "biz_code_10",
+    "description": "uzyrwlueuo",
+    "status": "BOTH",
+    "date_opened": "2023-12-18",
+    "date_closed": "2023-12-18"
+  }
+]
