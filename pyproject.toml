@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "record-etl"
+version = "0.1.0"
+description = ""
+authors = ["Alex Bulhakov <obulhakov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = ">2.3"
+pytz = "*"
+ijson = "*"
+aiofiles = "*"
+aiohttp = "*"
+asyncpg = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "*"
+pytest-asyncio = "*"
