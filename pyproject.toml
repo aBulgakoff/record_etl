@@ -14,12 +14,17 @@ aiofiles = "*"
 aiohttp = "*"
 asyncpg = "*"
 
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-
 [tool.poetry.group.dev.dependencies]
 pytest = "*"
 pytest-asyncio = "*"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "--import-mode=append tests/ --verbose"
+testpaths = [
+    "tests",
+]

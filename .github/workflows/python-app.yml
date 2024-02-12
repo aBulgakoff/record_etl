@@ -29,4 +29,4 @@ jobs:
         if [ -f poetry.lock ]; then poetry install; fi
     - name: Test with pytest
       run: |
-        pytest tests/
+        poetry run python -m pytest --import-mode=append tests/ --verbose 
